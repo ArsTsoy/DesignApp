@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="digits">
+        <item name="android:textSize">@dimen/huge</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="big_title">
+        <item name="android:textSize">@dimen/big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="title">
+        <item name="android:textSize">@dimen/medium_big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="title_white">
+        <item name="android:textSize">@dimen/medium_big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_white</item>
+    </style>
+
+    <style name="modal_title">
+        <item name="android:textSize">@dimen/medium_big</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="subtitle">
+        <item name="android:textSize">@dimen/medium_small</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="regular_text">
+        <item name="android:textSize">@dimen/medium_small</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="bold_text">
+        <item name="android:textSize">@dimen/medium_small</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="bold_text_white">
+        <item name="android:textSize">@dimen/medium_small</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/absolute_white</item>
+    </style>
+
+    <style name="branch_cashback_caption">
+        <item name="android:textSize">@dimen/medium_small</item>
+        <item name="android:textColor">@color/text_main_green</item>
+    </style>
+
+    <style name="card_cashback_caption">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/text_main_green</item>
+    </style>
+
+    <style name="regular_caption">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/text_main_gray</item>
+    </style>
+
+    <style name="regular_caption_white">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/absolute_white</item>
+    </style>
+
+    <style name="rating_view_text">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="amount_caption">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/text_main_watermelon</item>
+    </style>
+
+    <style name="button_text">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_black</item>
+    </style>
+
+    <style name="button_text_white">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_main_white</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_corners">24dp</dimen>
+    <dimen name="sMargin">8dp</dimen>
+    <dimen name="mMargin">12dp</dimen>
+    <dimen name="bMargin">16dp</dimen>
+    <dimen name="hMargin">24dp</dimen>
+    <dimen name="heightHorizontalLine">7dp</dimen>
+    <dimen name="widthHorizontalLine">50dp</dimen>
+</resources>

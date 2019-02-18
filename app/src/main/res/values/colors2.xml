@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="absolute_white">#FFFFFF</color>
+    <color name="watermelon">#FB3353</color>
+    <color name="main_black">#474747</color>
+    <color name="separators">#DBDBDB</color>
+    <color name="cashback_green">#509303</color>
+    <color name="star_yellow">#FAC203</color>
+    <color name="caption_gray">#878787</color>
+    <color name="action_button">#24A45E</color>
+    <color name="main_green">#24A45E</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
