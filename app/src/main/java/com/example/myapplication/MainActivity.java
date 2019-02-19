@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                InAppNotification inAppNotification = InAppNotification.make(view,"Интернет отсутствует", "Тут тост что все хорошо", R.drawable.image2, R.color.absolute_white);
+                InAppNotification inAppNotification = InAppNotification.make(view,"Интернет отсутствует", "Тут тост что все хорошо", R.drawable.image2, R.color.watermelon);
                 inAppNotification.setIndefinite(true);
                 inAppNotification.show();
 //                View custom = LayoutInflater.from(getApplicationContext()).inflate(R.layout.in_app_notification, null);
